@@ -8,7 +8,7 @@
 
 | Nome | Matrícula | Função / Frente Técnica |
 | :--- | :--- | :--- |
-| **Nome 1** | XXXXXXX | **1. Modelagem Física e Desempenho** (DDL, Índices, EXPLAIN) |
+| **Augusto Santana De sousa** | 2512130025 | **1. Modelagem Física e Desempenho** (DDL, Índices, EXPLAIN) |
 | **Nome 2** | XXXXXXX | **2. Transações e Concorrência** (Anomalia de Vagas, Locks, Isolamento) |
 | **Nome 3** | XXXXXXX | **3. Administração e Operação** (Views, Segurança/RLS, Backup/Restore) |
 
