@@ -7,7 +7,7 @@
 ## 👨‍💻 Divisão de Frentes do Grupo
 
 ### 1. Responsável pela Modelagem Física e Desempenho
-* **Nome:** Augusto Santana De SOUSA 
+* **Nome:** Augusto Santana de Souza 
 * **Atribuições:** DDL completo, tipos, domínios, restrições e criação de índices com EXPLAIN.
 
 ---
