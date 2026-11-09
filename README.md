@@ -9,8 +9,8 @@
 | Nome | Matrícula | Função / Frente Técnica |
 | :--- | :--- | :--- |
 | **Augusto Santana De sousa** | 2512130025 | **1. Modelagem Física e Desempenho** (DDL, Índices, EXPLAIN) |
-| **Nome 2** | XXXXXXX | **2. Transações e Concorrência** (Anomalia de Vagas, Locks, Isolamento) |
-| **Nome 3** | XXXXXXX | **3. Administração e Operação** (Views, Segurança/RLS, Backup/Restore) |
+| **Gabriela Gomes Régis** | XXXXXXX | **2. Transações e Concorrência** (Anomalia de Vagas, Locks, Isolamento) |
+| **Sabrina Borges da Trindade** | XXXXXXX | **3. Administração e Operação** (Views, Segurança/RLS, Backup/Restore) |
 
 *Nota: Conforme a documentação do projeto, o arquivo `AUTORES.md` também contém o detalhamento das responsabilidades nominais.*
 
